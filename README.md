@@ -1,1 +1,1 @@
-Fix PNNX ubuntu -> linux bug (#7050)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
